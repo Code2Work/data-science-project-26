@@ -41,6 +41,8 @@ ogrenciler ──→ kayitlar ←── kurslar
 - `kayitlar.Sertifika_Aldi`: Evet / Hayır
 - `kurslar.Seviye`: Başlangıç / Orta / İleri
 
+> **Not — Power BI Uygulama dersi:** Bu projenin verisi yukarıdaki 3 CSV'dir. Sıradaki **Power BI Uygulama** dersinde kullanılan Pazarcım verisi ayrıdır, bu projede gerekmez: [`pazarcim_siparisler.csv`, `pazarcim_musteriler.csv`, `pazarcim_urunler.csv`](https://github.com/Code2Work/power-bi-folder/tree/main/veri-setleri)
+
 ---
 
 ## 📋 Görevler — DAX Measure'lar + Dashboard
