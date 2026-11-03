@@ -120,7 +120,7 @@ Power BI Desktop'a yükleme:
 2. **2 ekran görüntüsü al**:
    - `dashboard.png` — tüm dashboard
    - `dax-measures.png` — DAX measure listesi (Modelling tab)
-3. **Pumble'a gönder** → kanal: `#proje-teslim`
+3. **Pumble'dan Burak Alparslan'a özel mesaj (DM) olarak gönder**
 4. Mesaj formatı:
    ```
    DS-26 Submission
